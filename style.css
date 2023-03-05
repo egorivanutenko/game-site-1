@@ -214,6 +214,7 @@ body {
   .img-mobile img {
     width: 350px;
   }
+
 }
 
 .hero-title {
@@ -295,4 +296,5 @@ body {
 }
 .dota-img :hover {
   background-color: #fcb8ff;
+
 }
